@@ -1,3 +1,5 @@
+https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExejZpczcybnk1a2xiN2ZiamZuY2NhZm8wM2d2ZzZia296djIzZWlmaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2bYewTk7K2No1NvcuK/giphy.gif
+
 # Ahmad El-Rufai
 
 I am `Ahmad El-Rufai`, a **medical student**. Passionate about **Artificial Intelligence**, computational radiology, and psychiatry.  
