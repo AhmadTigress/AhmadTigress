@@ -3,7 +3,7 @@
 # Ahmad El-Rufai
 
 I am `Ahmad El-Rufai`, a **medical student**. Passionate about **Artificial Intelligence**, computational radiology, and psychiatry.  
-My goal is to become a doctor who harnesses the potential of AI in the practice of medicine while keeping patients' comfort and satisfaction at maximum priority.
+My goal is to harnesses the potential of AI in the practice of medicine while keeping patients' comfort and satisfaction at maximum priority.
 
 I love to meet new people of different perspectives and perceptions because it is my practical class of human psychology.  
 Besides that, I enjoy listening to Chinese flute, singing, and reading poems. Most times when coding gets daunting, I go for cycling.  
